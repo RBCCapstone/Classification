@@ -4,6 +4,7 @@
 Created on Sat Sep  8 17:55:43 2018
 
 @author: Ayan Gedleh and Jessie Diep
+Based on: https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
 """
 #Works on base environment. Must pip install pandas and matplotlib in any newly created environments (ex. rbc)
 import pandas as pd
