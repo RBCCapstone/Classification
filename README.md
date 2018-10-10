@@ -1,2 +1,2 @@
 # Classification
-Scripts that classify articles to prepare for ML
+Scripts & Data that classify articles to prepare for ML
